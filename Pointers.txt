@@ -1,0 +1,15 @@
+1) Which state has the most Sulphur dioxide pollutants in the air? Which Cities from that State are major contributors?
+2) Which State has the most polluted air (all pollutants)amongst selected ones and their proportions with respect to one another?
+3) How do the quantities of pollutants change with respect to Areas and Time durations?
+4) What is the Forecasted Trend of the Suspended Particulate Matters(Spm) for the different states?
+
+https://public.tableau.com/profile/aarti.nimhan#!/vizhome/PollutionVisualizations/Dashboard1?publish=yes
+
+
+https://docs.google.com/presentation/d/1zbdxmUKxjCTQ-4QxHhS2chhIkj_KfFfHXzPG3_5HscA/edit?usp=sharing
+
+https://docs.google.com/presentation/d/1zbdxmUKxjCTQ-4QxHhS2chhIkj_KfFfHXzPG3_5HscA/edit?usp=sharing
+
+
+Change year to 2005 
+add Tamil Nadu, Karnataka in state remove bihar,assam
